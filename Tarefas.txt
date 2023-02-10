@@ -1,0 +1,39 @@
+CONJUNTO 1 
+
+•	🟡Permitir exportar em CSV e XLS a lista de contatos (por data, atendente, tag) 
+
+•	🟡(By me)Adicionar filtro ao enviar mensagens em massa
+
+•	Rodízio e balanceamento de tickets por atendente (deve ir distribuindo pelos atendentes, 
+	se o atendente não pegar o ticket em X segundos, passa para o próximo da fila) Colocar para 
+	ativar ou não a funcionalidade (Rodízio, Balanceamento, Tradicional).
+
+•	Permitir definir horário de trabalho por atendente
+
+•	Notificação condicional > Receber uma notificação, quando uma determinada condição for atendida. 
+	Ex. Deseja ser atendido por um de nossos vendedores? <Sim> <Não> se sim, abrir uma notificação em 
+	um novo ícone de notificações diferente dessa tradicional que já existe, seria uma notificação que
+	o cliente chegou na etapa X. 
+
+
+CONJUNTO 2
+
+•	Agendar Mensagem dentro do chat com o usuário.
+
+•	Nota dentro da mensagem agendada com o usuário.
+
+•	Permitir colocar Notas sobre o usuário. Dentro do cadastro dele. E na conversa com ele. 
+
+•	Atribuir tags automaticamente ao entrar em um setor.
+
+•	Permitir disparar mensagem única e com recorrência para quem tem a TAG “x” ou Upar uma lista. 
+	(definir dia e horário permitido para os envios)      
+
+
+CONJUNTO 3
+
+•	Fazer log de usuários com data e hora que entrou no sistema, quantos tickes atendeu e se possível que números 
+	atendeu (pode ser importante para alguma demanda jurídica ou problema com o cliente ou má conduta do operador)
+	Relatórios completos de atendimento, quantidade x atendente x período x tags x conexões x ...
+
+•	Só permitir logar usuário único, para evitar duas pessoas usarem a mesma senha.

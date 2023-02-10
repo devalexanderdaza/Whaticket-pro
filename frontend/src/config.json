@@ -1,0 +1,43 @@
+{
+    "system": {
+        "name": "Fale Conosco - Plataforma de Multi Atendimento para Whatsapp",
+        "url": "https://faleconosco.cc",
+        "color": {
+            "lightTheme": {
+                "palette": {
+                    "primary": "#404040",
+                    "secondary": "#f60000",
+                    "default": "#EFF1ED"
+                },
+                "toolbar": {
+                    "background": "linear-gradient(to right, #404040, #037682)"
+                },
+                "menuItens": "#EFF1ED",
+                "sub": "#EFF1ED",
+                "toolbarIcon": "#EFF1ED",
+                "divide": "#EFF1ED"
+            },
+            "darkTheme": {
+                "palette": {
+                    "primary": "#404040",
+                    "secondary": "#7B68EE",
+                    "background": {
+                        "default": "#080d14",
+                        "paper": "#404040"
+                    },
+                    "text": {
+                        "primary": "#4169E1",
+                        "secondary": "#EFF1ED"
+                    }
+                },
+                "toolbar": {
+                    "background": "linear-gradient(to right, #404040, #037682)"
+                },
+                "menuItens": "#404040",
+                "sub": "#404040",
+                "toolbarIcon": "#404040",
+                "divide": "#080d14"
+            }
+        }
+    }
+}
